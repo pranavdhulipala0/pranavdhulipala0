@@ -58,9 +58,8 @@ Turning **coffee ☕ into code 💻, AI into magic ✨, and cloud into wings ☁
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavdhulipala0)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](https://your-portfolio.com)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://www.linkedin.com/in/pranav-dhulipala-70060519b/)  
+[![Portfolio](https://pranavdhulipala-ccba6.web.app/)  
 
 ---
 
