@@ -60,9 +60,3 @@ Turning coffee into code & building systems that scale!
 
 [![LinkedIn](https://www.linkedin.com/in/pranav-dhulipala-70060519b/)  
 [![Portfolio](https://pranavdhulipala-ccba6.web.app/)  
-
----
-
-### 🎯 Fun Tagline
-
-*"Crafting code like spells 🪄, wrangling data like a wizard 📊, and conquering the cloud like a hero ☁️🛡️"*  
