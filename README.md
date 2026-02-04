@@ -2,7 +2,7 @@
 
 ### 🚀 Fullstack Developer | AI Explorer | Cloud Adventurer  
 
-Turning **coffee ☕ into code 💻, AI into magic ✨, and cloud into wings ☁️🕊️**  
+Turning **coffee ☕ into code & building systems that scale!  
 
 ---
 
