@@ -1,8 +1,6 @@
 # 👋 Hey, I'm Pranav Dhulipala!  
 
-### 🚀 Fullstack Developer | AI Explorer | Cloud Adventurer  
-
-Turning coffee into code & building systems that scale!  
+### 🚀 Fullstack Developer building systems that scale!
 
 ---
 
