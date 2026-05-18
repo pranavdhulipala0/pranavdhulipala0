@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Pranav Dhulipala!  
 
-### 🚀 Fullstack Developer building systems that scale!
+### 🚀 Software Developer building systems that scale!
 
 ---
 
